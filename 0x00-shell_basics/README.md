@@ -21,3 +21,11 @@ mv /tmp/betty /tmp/my_first_directory => moves the file betty into my_first_dire
 rmdir => delete a directory
 
 cd alx-system_engineering-devops => changes the working directory to the previous one
+
+
+
+
+
+
+
+cp *.html /alx-system_engineering-devops/
