@@ -16,7 +16,7 @@ mkdir /tmp/my_first_directory => creates a directory in tmp directory
 
 mv /tmp/betty /tmp/my_first_directory => moves the file betty into my_first_directory
 
-
+rm /tmp/my_first_directory/betty => deletes the file betty from my_first_directory 
 
 rmdir => delete a directory
 
@@ -28,4 +28,8 @@ file /tmp/iamafile => displays the file extension
 
 ln -s /bin/ls __ls__ => create a symbolic link
 
-cp -un *html. ../
+cp -un *html. ../ => copy files to the directory with extension .html
+
+mv [[:upper:]]* /tmp/u => move all files starting with uppercases to tmp/u
+
+rm *~ => remove all emacs files from the current working directory
