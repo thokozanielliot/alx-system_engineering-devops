@@ -18,6 +18,6 @@ mv /tmp/betty /tmp/my_first_directory => moves the file betty into my_first_dire
 
 
 
-
+rmdir => delete a directory
 
 cd .. => changes the working directory to the previous one
