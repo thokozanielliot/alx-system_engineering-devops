@@ -24,7 +24,7 @@ cd - => changes the working directory to the previous one
 
 ls -al . .. /boot => display all contents of boot directory
 
-
+file /tmp/iamafile => displays the file extension
 
 
 
