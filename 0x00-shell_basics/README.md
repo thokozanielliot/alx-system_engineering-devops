@@ -6,4 +6,6 @@ ls => list contents of current working directory
 
 
 
-ls -l => lsit contents of current working directory in long format
+ls -l => list contents of current working directory in long format
+
+ls -a => list contents of current working directoey including hidden files
