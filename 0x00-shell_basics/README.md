@@ -33,3 +33,7 @@ cp -un *html. ../ => copy files to the directory with extension .html
 mv [[:upper:]]* /tmp/u => move all files starting with uppercases to tmp/u
 
 rm *~ => remove all emacs files from the current working directory
+
+mkdir -p welcome/to/school => Create multiple directories at once
+
+ls -am => display all files separate by commas
