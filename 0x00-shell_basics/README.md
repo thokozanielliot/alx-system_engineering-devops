@@ -8,4 +8,4 @@ ls => list contents of current working directory
 
 ls -l => list contents of current working directory in long format
 
-ls -a => list contents of current working directoey including hidden files
+ls -al => list contents of current working directoey including hidden files
