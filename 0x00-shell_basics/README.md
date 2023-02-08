@@ -13,3 +13,11 @@ ls -al => list contents of current working directoey including hidden files
 ls -al -g => list contens fo current working directory including hidden files with group IDs and users
 
 mkdir /tmp/my_first_directory => creates a directory in tmp directory
+
+mv /tmp/betty /tmp/my_first_directory => moves the file betty into my_first_directory
+
+
+
+
+
+cd .. => changes the working directory to the previous one
