@@ -26,6 +26,6 @@ ls -al . .. /boot => display all contents of boot directory
 
 file /tmp/iamafile => displays the file extension
 
-
+ln -s /bin/ls_ls_ => create a symbolic link
 
 cp *.html /alx-system_engineering-devops/
