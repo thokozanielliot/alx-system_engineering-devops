@@ -26,3 +26,5 @@ chmod -R a+x 0x01-shell_permissions => set permission to executeable for all dir
 
 mkdir -m 751 my_dir => create a directory with permissions
 
+chgrp school hello => changing group ownership
+
