@@ -6,4 +6,6 @@ whoami => print current user
 
 groups => print all groups the current user is part of
 
-chown betty hello => Changing file ownership to betty 
+chown betty hello => Changing file ownership to betty
+
+touch hello => create an empty file named hello 
