@@ -21,3 +21,8 @@ chmod 007 hello => give all permissions to other users
 chmod 753 hello => setting permission to rwxr-x-wx
 
 chmod --reference=olleh hello => set permissions of hello to same as olleh
+
+chmod -R a+x 0x01-shell_permissions => set permission to executeable for all directories
+
+mkdir -m 751 my_dir => create a directory with permissions
+
