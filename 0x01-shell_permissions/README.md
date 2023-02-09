@@ -8,4 +8,6 @@ groups => print all groups the current user is part of
 
 chown betty hello => Changing file ownership to betty
 
-touch hello => create an empty file named hello 
+touch hello => create an empty file named hello
+
+chmod 700 hello => adds execute permission to owner of file  
