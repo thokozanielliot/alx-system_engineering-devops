@@ -12,4 +12,6 @@ touch hello => create an empty file named hello
 
 chmod 744 hello => adds execute permission to owner of file 
 
-chmod 774 hello =>  adds execute permission to owner andthe group owner 
+chmod 754 hello =>  adds execute permission to owner and the group owner 
+
+chmod 755 hello => add execute permission to owner, group owner and other users
