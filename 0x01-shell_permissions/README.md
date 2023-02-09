@@ -19,3 +19,5 @@ chmod 751 hello => add execute permission to owner, group owner and other users
 chmod 007 hello => give all permissions to other users
 
 chmod 753 hello => setting permission to rwxr-x-wx
+
+chmod --reference=olleh hello => set permissions of hello to same as olleh
