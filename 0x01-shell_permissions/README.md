@@ -10,4 +10,4 @@ chown betty hello => Changing file ownership to betty
 
 touch hello => create an empty file named hello
 
-chmod 700 hello => adds execute permission to owner of file  
+chmod 744 hello => adds execute permission to owner of file  
